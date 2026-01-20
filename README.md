@@ -1,0 +1,1 @@
+# smart-boat-ollama
