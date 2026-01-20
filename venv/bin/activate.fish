@@ -33,7 +33,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV /home/reizend/Desktop/Dipin/ai-support-engine/venv
+set -gx VIRTUAL_ENV /home/reizend/Desktop/Dipin/ai-support-engine/smart-boat-ollama/venv
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/"bin $PATH
